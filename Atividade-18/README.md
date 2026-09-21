@@ -3,7 +3,7 @@ Nome: Anthony Pagani
 Turma: 2º ano — Técnico em Informática Integrado
 
 ## Diagrama
-![Diagrama de Classes do BiblioTech](file:///C:/Users/Aluno/Pictures/Screenshots/C%C3%B3pia%20de%20ATividade%2017-Atividade%2018.drawio.png)
+![Diagrama de Classes do BiblioTech]([file:///C:/Users/Aluno/Pictures/Screenshots/C%C3%B3pia%20de%20ATividade%2017-Atividade%2018.drawio.png](https://github.com/20251ctb0100035-ai/Diagrama-Bibliotech/blob/main/C%C3%B3pia%20de%20ATividade%2017-Atividade%2018.drawio.png))
 
 ## Por que estes números (associação Bibliotecario — Emprestimo)
 - Perto de Emprestimo eu coloquei 0 porque pode ser registrado (ou não) varios livros
