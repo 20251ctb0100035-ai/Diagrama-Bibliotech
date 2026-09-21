@@ -15,4 +15,4 @@ Turma: 2º ano — Técnico em Informática Integrado
 
 ## Autoavaliação
 - Conceito que pretendo: A
-- Onde isso se prova no diagrama (classe / linha / número): ___
+- Onde isso se prova no diagrama (classe / linha / número): 9 - 11
