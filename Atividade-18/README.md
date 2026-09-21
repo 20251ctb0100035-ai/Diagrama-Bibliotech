@@ -3,6 +3,7 @@ Nome: Anthony Pagani
 Turma: 2º ano — Técnico em Informática Integrado
 
 ## Diagrama
+![Diagrama de Classes do BiblioTech](https://github.com/20251ctb0100035-ai/Diagrama-Bibliotech/blob/main/diagrama-classes.png.png)
 ![Diagrama de Classes do BiblioTech]()
 
 ## Por que estes números (associação Bibliotecario — Emprestimo)
